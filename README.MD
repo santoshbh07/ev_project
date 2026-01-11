@@ -26,7 +26,7 @@ This project analyzes electric vehicle (EV) adoption trends using Washington Sta
 - Average BEV electric range (valid records only)
 - Top counties by EV registrations
 
-Plots are saved in the `plots/` directory.
+Plots are saved in the `figures/` directory.
 
 ## Tools
 - Python
