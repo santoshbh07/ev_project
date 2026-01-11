@@ -5,6 +5,7 @@ This project analyzes electric vehicle (EV) adoption trends using Washington Sta
 
 ## Data
 - Source: Washington State Electric Vehicle Population Data
+- URL: https://catalog.data.gov/dataset/electric-vehicle-population-data
 - Size: ~270,000 vehicle records
 - Key fields: model year, county, vehicle type, electric range, legislative district
 
